@@ -3,3 +3,4 @@
 * [remove sensitive data from github](https://help.github.com/articles/removing-sensitive-data-from-a-repository/)
 * [rsync for cloud storage](https://rclone.org/)
 * https://github.com/bayandin/awesome-awesomeness
+* [open source molecular modeling](https://opensourcemolecularmodeling.github.io/)
