@@ -4,3 +4,4 @@
 * [rsync for cloud storage](https://rclone.org/)
 * https://github.com/bayandin/awesome-awesomeness
 * [open source molecular modeling](https://opensourcemolecularmodeling.github.io/)
+* [C++ perfomance optimizations](https://github.com/fenbf/AwesomePerfCpp#books)
