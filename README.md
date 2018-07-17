@@ -5,3 +5,4 @@
 * https://github.com/bayandin/awesome-awesomeness
 * [open source molecular modeling](https://opensourcemolecularmodeling.github.io/)
 * [C++ perfomance optimizations](https://github.com/fenbf/AwesomePerfCpp#books)
+* [scale up python with Dask](https://dask.pydata.org/en/latest/)
