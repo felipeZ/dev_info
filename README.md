@@ -6,3 +6,4 @@
 * [open source molecular modeling](https://opensourcemolecularmodeling.github.io/)
 * [C++ perfomance optimizations](https://github.com/fenbf/AwesomePerfCpp#books)
 * [scale up python with Dask](https://dask.pydata.org/en/latest/)
+* [python bindings](https://gitlab.e-cam2020.eu/jan/bindings-tutorial)
