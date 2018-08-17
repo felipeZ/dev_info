@@ -7,3 +7,4 @@
 * [C++ perfomance optimizations](https://github.com/fenbf/AwesomePerfCpp#books)
 * [scale up python with Dask](https://dask.pydata.org/en/latest/)
 * [python bindings](https://gitlab.e-cam2020.eu/jan/bindings-tutorial)
+* [elpy config](https://github.com/jorgenschaefer/elpy/wiki/Configuration) (use `elpy-config` to see current config)
