@@ -9,3 +9,5 @@
 * [python bindings](https://gitlab.e-cam2020.eu/jan/bindings-tutorial)
 * [elpy config](https://github.com/jorgenschaefer/elpy/wiki/Configuration) (use `elpy-config` to see current config)
 * [Workflow managment with vagrant](https://www.vagrantup.com/)
+* [system design primer](https://github.com/donnemartin/system-design-primer)
+* [algorithms](https://github.com/TheAlgorithms)
