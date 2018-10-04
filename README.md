@@ -11,3 +11,4 @@
 * [Workflow managment with vagrant](https://www.vagrantup.com/)
 * [system design primer](https://github.com/donnemartin/system-design-primer)
 * [algorithms](https://github.com/TheAlgorithms)
+* [gprof2dot](https://github.com/jrfonseca/gprof2dot)
