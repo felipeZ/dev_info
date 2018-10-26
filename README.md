@@ -12,3 +12,4 @@
 * [system design primer](https://github.com/donnemartin/system-design-primer)
 * [algorithms](https://github.com/TheAlgorithms)
 * [gprof2dot](https://github.com/jrfonseca/gprof2dot)
+* [cmake cookbook](https://github.com/dev-cafe/cmake-cookbook)
