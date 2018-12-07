@@ -13,3 +13,4 @@
 * [algorithms](https://github.com/TheAlgorithms)
 * [gprof2dot](https://github.com/jrfonseca/gprof2dot)
 * [cmake cookbook](https://github.com/dev-cafe/cmake-cookbook)
+* [schema](https://github.com/keleshev/schema)
