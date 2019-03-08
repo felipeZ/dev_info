@@ -15,3 +15,4 @@
 * [cmake cookbook](https://github.com/dev-cafe/cmake-cookbook)
 * [schema](https://github.com/keleshev/schema)
 * [C++ HDF5 library](https://github.com/BlueBrain/HighFive)
+* [mkl install linux](https://github.com/eddelbuettel/mkl4deb)
