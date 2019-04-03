@@ -16,3 +16,4 @@
 * [schema](https://github.com/keleshev/schema)
 * [C++ HDF5 library](https://github.com/BlueBrain/HighFive)
 * [mkl install linux](https://github.com/eddelbuettel/mkl4deb)
+* [oh-my-zsh](https://medium.com/wearetheledger/oh-my-zsh-made-for-cli-lovers-installation-guide-3131ca5491fb)
